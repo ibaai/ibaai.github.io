@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
+pligins:
+  - jekyll-feed
+
 encofing: utf-8
+baseurl: ""
+url: ""
+github_username: ibaai
