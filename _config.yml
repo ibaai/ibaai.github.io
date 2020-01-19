@@ -1,6 +1,2 @@
 theme: jekyll-theme-cayman
 encofing: utf-8
-plugins:
-  - github-pages
-baseurl: "/"
-url: "https://ibaai.github.io"
