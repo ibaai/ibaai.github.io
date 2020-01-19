@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Activity
+title: Product
 ---
-## 活動記録一覧
+## 成果物一覧
 {% for post in site.posts %}
 - [{{ post.title }}]({{post.url}})
 {% endfor %}  
