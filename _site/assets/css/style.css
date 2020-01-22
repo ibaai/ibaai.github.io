@@ -317,3 +317,7 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.user_box { font-size: 30px; }
+
+.icon { border-radius: 50%; border: 2px solid #87cc90; width: 70px; height: 70px; }
