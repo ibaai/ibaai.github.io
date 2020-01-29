@@ -21,7 +21,15 @@ title: Member
     </div>
     <div class="user_name">
       chiya
-      <!-- TODO: 名前を入力 -->
+    </div>
+  </div>
+  
+  <div class="user_box">
+    <div class="user_icon">
+      <img src="/assets/img/akiyama_icon.png" class="icon">
+    </div>
+    <div class="user_name">
+      Shogo Akiyama
     </div>
   </div>
 
