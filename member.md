@@ -17,10 +17,10 @@ title: Member
   <div class="user_box">
     <div class="user_icon">
       <!-- TODO: image名を入力 -->
-      <img src="/assets/img/.png" class="icon">
+      <img src="/assets/img/Hayashiabura.jpg" class="icon">
     </div>
     <div class="user_name">
-      <!-- TODO: 名前を入力 -->
+      Hana
     </div>
   </div>
 
