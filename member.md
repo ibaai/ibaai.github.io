@@ -7,7 +7,7 @@ title: Member
 <div id="row">
   <div class="user_box">
     <div class="user_icon">
-      <img src="/assets/img/kono_icon.png" class="icon">
+      <img src="/assets/img/sea.jpg" class="icon">
     </div>
     <div class="user_name">
       Kono Shinji
