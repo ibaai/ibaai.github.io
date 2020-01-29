@@ -40,5 +40,14 @@ title: Member
       Shogo Akiyama
     </div>
   </div>
+  
+  <div class="user_box">
+    <div class="user_icon">
+      <img src="/assets/img/akiyama_icon.png" class="icon">
+    </div>
+    <div class="user_name">
+      Nozomi Miyamori
+    </div>
+  </div>
 
 </div>
