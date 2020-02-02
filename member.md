@@ -49,5 +49,17 @@ title: Member
       Nozomi Miyamori
     </div>
   </div>
-
 </div>
+
+
+<!--
+以下テンプレート(このテンプレートは残しておいてください)
+<div class="user_box">
+  <div class="user_icon">
+    <img src="/assets/img/~~~.png" class="icon">
+  </div>
+  <div class="user_name">
+    
+  </div>
+</div>
+-->
