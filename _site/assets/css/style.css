@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
@@ -318,6 +319,12 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
+/* メンバーページ */
 #user_grid { display: grid; grid-template-columns: repeat(4, 200px); grid-template-rows: 130px; }
 
 .icon { border-radius: 50%; border: 2px solid #87cc90; width: 70px; height: 70px; }
+
+/* 活動記録ページ */
+.memory-date { display: inline-block; margin-right: 20px; font-size: 25px; }
+
+.memory-title { display: inline-block; font-size: 25px; }
