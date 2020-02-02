@@ -318,4 +318,6 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
+#user_grid { display: grid; grid-template-columns: repeat(4, 200px); grid-template-rows: 130px; }
+
 .icon { border-radius: 50%; border: 2px solid #87cc90; width: 70px; height: 70px; }
