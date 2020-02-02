@@ -4,7 +4,7 @@ title: Member
 ---
 ## メンバー
 
-<div id="row">
+<div id="user_grid">
   <div class="user_box">
     <div class="user_icon">
       <img src="/assets/img/sea.jpg" class="icon">

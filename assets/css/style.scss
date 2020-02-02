@@ -3,6 +3,11 @@
 
 @import 'jekyll-theme-cayman';
 
+#user_grid {
+  display: grid;
+  grid-template-columns: repeat(4,200px);
+  grid-template-rows: 130px;
+}
 .icon {
   border-radius: 50%;
   border: 2px solid #87cc90;
