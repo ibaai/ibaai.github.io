@@ -11,3 +11,15 @@ title: Product
     Git勉強会
   </div>
 </p>
+
+<!-- 
+以下テンプレート(このテンプレートは残しておいてください)
+<p>
+  <div class="memory-date">
+    TODO: ここに日付を書く
+  </div>
+  <div class="memory-title">
+    TODO: ここにタイトルを書く(複数ある場合は<br>を入れる)
+  </div>
+</p>
+-->
