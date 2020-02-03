@@ -18,12 +18,17 @@
 
 
 /* 活動記録ページ */
+.memory-box {
+  margin-bottom: 20px;
+}
 .memory-date {
+  vertical-align: top;
   display:  inline-block;
   margin-right: 20px;
   font-size: 25px;
 }
 .memory-title {
+  vertical-align: top;
   display:  inline-block;
   font-size: 25px;
 }
