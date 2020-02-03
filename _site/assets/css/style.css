@@ -325,6 +325,8 @@ a:hover { text-decoration: underline; }
 .icon { border-radius: 50%; border: 2px solid #87cc90; width: 70px; height: 70px; }
 
 /* 活動記録ページ */
-.memory-date { display: inline-block; margin-right: 20px; font-size: 25px; }
+.memory-box { margin-bottom: 20px; }
 
-.memory-title { display: inline-block; font-size: 25px; }
+.memory-date { vertical-align: top; display: inline-block; margin-right: 20px; font-size: 25px; }
+
+.memory-title { vertical-align: top; display: inline-block; font-size: 25px; }
