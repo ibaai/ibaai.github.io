@@ -1,10 +1,10 @@
-# ibaai.github.io  
-https://ibaai.github.io/
+# kakuresou.github.io  
+https://kakuresou.github.io/
 
 ## 環境構築　　
 事前にRubyを導入しておいてください.  
-1. `$ git clone https://github.com/ibaai/ibaai.github.io.git`  
-1. `$ cd ibaai.github.io`  
+1. `$ git clone https://github.com/KAKURESOU/kakuresou.github.io.git`  
+1. `$ cd kakuresou.github.io`  
 1. `$ gem install jekyll bundler`  
 1. `$ bundle install`  
 1. `$ bundle exec jekyll serve`のあと`http://127.0.0.1:4000/`にアクセス　　
