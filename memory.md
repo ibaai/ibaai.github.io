@@ -6,6 +6,17 @@ title: Product
 
 <div class="memory-box">
   <div class="memory-date">
+    2020年2月14日
+  </div>
+  <div class="memory-title">
+    卒修論発表で面白そうなのを見つけよう<br>
+    卒業論文発表の練習<br>
+    ファイナンス機械学習の話
+  </div>
+</div>
+
+<div class="memory-box">
+  <div class="memory-date">
     2020年2月5日
   </div>
   <div class="memory-title">
